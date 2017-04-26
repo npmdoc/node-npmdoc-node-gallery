@@ -1,6 +1,6 @@
 # npmdoc-node-gallery
 
-#### api documentation for  [node-gallery (v1.1.0)](http://www.github.com/cianclarke/node-gallery)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-gallery.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-gallery) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-gallery.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-gallery)
+#### basic api documentation for  [node-gallery (v1.1.0)](http://www.github.com/cianclarke/node-gallery)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-gallery.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-gallery) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-gallery.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-gallery)
 
 #### NodeJS Photo Gallery using directory structure & exif info to output a gallery
 
@@ -64,7 +64,8 @@
         "test": "node test/test-gallery.js ; node test/test-album.js ; node test/test-photo.js"
     },
     "subdomain": "node-gallery",
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
